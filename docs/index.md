@@ -23,3 +23,7 @@ https://ubc.zoom.us/j/66135841413?pwd=ODseV2xqlzV1eOv6QWKoLB3vM8efu7.1
 Meeting ID: 661 3584 1413
 
 Passcode: 866352
+
+## Syllabus
+
+To be uploaded before class!
