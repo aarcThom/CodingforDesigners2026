@@ -26,4 +26,4 @@ Passcode: 866352
 
 ## Syllabus
 
-To be uploaded before class!
+[Syllabus](https://github.com/aarcThom/CodingforDesigners2026/blob/main/Arch577cDes450iSyllabus.pdf)
