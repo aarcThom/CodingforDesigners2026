@@ -25,5 +25,7 @@ Meeting ID: 661 3584 1413
 Passcode: 866352
 
 ## Syllabus
-
 [Syllabus](https://github.com/aarcThom/CodingforDesigners2026/blob/main/Arch577cDes450iSyllabus.pdf)
+
+## Lecture Notebooks
+[Monday, May 11 - Introduction & Workspace Setup](https://github.com/aarcThom/cfd26/blob/main/0511_intro/0511_intro.ipynb)
