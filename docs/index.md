@@ -45,3 +45,5 @@ Passcode: 866352
 [AI Usage and Coding Agents Notebook - Online Version](https://github.com/aarcThom/cfd26/blob/main/0513_ai/0513_ai.ipynb)
 
 [AI Usage and Coding Agents Notebook - Downloadable Version](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FaarcThom%2Fcfd26%2Ftree%2Fmain%2F0513_ai)
+
+[Lecture Recording](https://ubc.zoom.us/rec/share/yzAMfea8ZsjQa-mfPpw6OmQmTQNlqlCHMOiamtEM00sdgWvrFqhEAXBUsG-CVZND.loSEFNfA3S7RMjRf) (password = SC@DL9i$)
