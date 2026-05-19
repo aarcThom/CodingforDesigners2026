@@ -47,3 +47,8 @@ Passcode: 866352
 [AI Usage and Coding Agents Notebook - Downloadable Version](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FaarcThom%2Fcfd26%2Ftree%2Fmain%2F0513_ai)
 
 [Lecture Recording](https://ubc.zoom.us/rec/share/yzAMfea8ZsjQa-mfPpw6OmQmTQNlqlCHMOiamtEM00sdgWvrFqhEAXBUsG-CVZND.loSEFNfA3S7RMjRf) (password = SC@DL9i$)
+
+### Wednesday, May 20
+[Primitives, Variables, Functions - Online Version](https://github.com/aarcThom/cfd26/blob/main/0520_primitives_functions/05_primitives_functions.ipynb)
+
+[Primitives, Variables, Functions - Downloadable Version](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FaarcThom%2Fcfd26%2Ftree%2Fmain%2F0520_primitives_functions)
